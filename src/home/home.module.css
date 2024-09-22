@@ -1,0 +1,26 @@
+.main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10rem;
+  flex-direction: column;
+}
+
+
+input{
+  border: 1px #000 solid;
+  border-radius: .5rem;
+  padding: .2rem;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+  gap: 1rem;
+}
+
+.context{
+  display: flex;
+  gap: 1rem;
+}
